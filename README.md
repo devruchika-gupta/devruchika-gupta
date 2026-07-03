@@ -6,7 +6,7 @@
 
 ##  Live Portfolio
 My Portfolio:  
-[Visit Website](ruchie-portfolio.netlify.app)
+[Visit Website](ruchikagportfolio.netlify.app)
 
 
 ---
@@ -35,7 +35,7 @@ My Portfolio:
 
 ###  Portfolio Website
 Personal responsive portfolio showcasing my projects and skills.  
- [Live Site](ruchie-portfolio.netlify.app) | [GitHub](https://github.com/devruchika-gupta/ruchie-portfolio)
+ [Live Site](ruchikagportfolio.netlify.app) | [GitHub](https://github.com/devruchika-gupta/ruchie-portfolio)
 ---
 
 ###  Shruva – Food Restaurant Website
