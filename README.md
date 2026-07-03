@@ -8,7 +8,7 @@
 
 💼 Open to Frontend Developer / Full-Stack Developer opportunities
 
-🔗 Let's connect: [LinkedIn](www.linkedin.com/in/ruchika-gupta-7897b5418)
+🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/ruchika-gupta-7897b5418)
 
 ---
 
@@ -27,4 +27,4 @@
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [Ruchika Gupta](www.linkedin.com/in/ruchika-gupta-7897b5418)
+- LinkedIn: [Ruchika Gupta](https://www.linkedin.com/in/ruchika-gupta-7897b5418)
