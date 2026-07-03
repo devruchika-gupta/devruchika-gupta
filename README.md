@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there 👋, I'm Ruchika Gupta
 
-<!--
-**devruchika-gupta/devruchika-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Data Science) Graduate | Aspiring Frontend/Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 Currently interning and working hands-on with Python, Django, SQL, HTML, CSS, JavaScript, and MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Constantly learning by building small to medium projects and applying concepts in real scenarios
+
+💼 Open to Frontend Developer / Full-Stack Developer opportunities
+
+🔗 Let's connect: [LinkedIn](www.linkedin.com/in/ruchika-gupta-7897b5418)
+
+---
+
+### 🛠️ Skills
+
+**Languages:** Python | JavaScript | SQL  
+**Frameworks/Libraries:** Django | Pandas
+**Frontend:** HTML | CSS | JavaScript  
+**Database:** MongoDB | SQL  
+
+---
+
+### 📌 Featured Projects
+*(Coming soon — projects will be added here as I complete them!)*
+
+---
+
+### 📫 How to reach me
+- LinkedIn: [Ruchika Gupta](www.linkedin.com/in/ruchika-gupta-7897b5418)
