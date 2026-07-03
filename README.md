@@ -1,44 +1,65 @@
-### Hi there 👋, I'm Ruchika Gupta
+# Hi there 👋, I'm Ruchika Gupta
 
-🎓 BCA (Data Science) Graduate | Aspiring Frontend/Full-Stack Developer
-
-🚀 Currently interning and working hands-on with Python, Django, SQL, HTML, CSS, JavaScript, and MongoDB
-
-🌱 Constantly learning by building small to medium projects and applying concepts in real scenarios
-
-💼 Open to Frontend Developer / Full-Stack Developer opportunities
-
-🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/ruchika-gupta-7897b5418)
+ BCA (Data Science) Graduate | Aspiring Frontend / Full-Stack Developer
 
 ---
 
-### 🛠️ Skills
+##  Live Portfolio
+My Portfolio:  
+[Visit Website](ruchie-portfolio.netlify.app)
 
-**Languages:** Python | JavaScript | SQL  
-**Frameworks/Libraries:** Django | Pandas
-**Frontend:** HTML | CSS | JavaScript  
-**Database:** MongoDB | SQL  
 
 ---
 
-### 📌 Featured Projects
-
-**🍽️ Shruva – Food Restaurant Website**  
-A responsive frontend website for a food restaurant showcasing menu, ambience, and services.  
-Tech: HTML, CSS, JavaScript  
-🔗 [Live Site](https://shruva-food-website.netlify.app) | [GitHub Repo](https://github.com/devruchika-gupta/shruva-restaurant)
-
-**🕯️ Dhara by Rashi – Handmade Candle Website**  
-A responsive website for a handmade candle brand with product showcase and clean UI/UX.  
-Tech: HTML, CSS, JavaScript  
-🔗 [Live Site](https://dhara-by-rashi.netlify.app) | [GitHub Repo](https://github.com/devruchika-gupta/dhara-by-rashi)
-
-**🎮 Memory Card Game (Multiplayer)**  
-A multiplayer memory card matching game built for fun and practice.  
-Tech: HTML, CSS, JavaScript  
-🔗 [GitHub Repo](https://github.com/devruchika-gupta/Cardclick)
+##  About Me
+- Currently interning and working with **Python, Django, SQL, HTML, CSS, JavaScript, MongoDB**
+- I like building real-world projects instead of just tutorials
+- Constantly improving my development skills
+- Open to **Frontend / Full-Stack Developer opportunities**
 
 ---
 
-### 📫 How to reach me
-- LinkedIn: [Ruchika Gupta](https://www.linkedin.com/in/ruchika-gupta-7897b5418)
+##  Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Python](https://img.shields.io/badge/Python-blue)
+![Django](https://img.shields.io/badge/Django-darkgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
+---
+
+## Featured Projects
+
+###  Portfolio Website
+Personal responsive portfolio showcasing my projects and skills.  
+ [Live Site](ruchie-portfolio.netlify.app) | [GitHub](https://github.com/devruchika-gupta/ruchie-portfolio)
+---
+
+###  Shruva – Food Restaurant Website
+Responsive restaurant website with modern UI.  
+Live Site | GitHub Repo
+
+---
+
+###  Dhara by Rashi – Handmade Candle Website
+Clean UI/UX website for handmade candle brand.  
+Live Site | GitHub Repo
+
+---
+
+###  Memory Card Game (Multiplayer)
+Fun browser-based multiplayer game.  
+ GitHub Repo
+
+---
+
+##  Connect With Me
+- LinkedIn: Ruchika Gupta
+- GitHub: https://github.com/devruchika-gupta
+
+---
+
+ Always learning, always building.
