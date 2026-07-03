@@ -22,7 +22,21 @@
 ---
 
 ### 📌 Featured Projects
-*(Coming soon — projects will be added here as I complete them!)*
+
+**🍽️ Shruva – Food Restaurant Website**  
+A responsive frontend website for a food restaurant showcasing menu, ambience, and services.  
+Tech: HTML, CSS, JavaScript  
+🔗 [Live Site](https://shruva-food-website.netlify.app) | [GitHub Repo](https://github.com/devruchika-gupta/shruva-restaurant)
+
+**🕯️ Dhara by Rashi – Handmade Candle Website**  
+A responsive website for a handmade candle brand with product showcase and clean UI/UX.  
+Tech: HTML, CSS, JavaScript  
+🔗 [Live Site](https://dhara-by-rashi.netlify.app) | [GitHub Repo](https://github.com/devruchika-gupta/dhara-by-rashi)
+
+**🎮 Memory Card Game (Multiplayer)**  
+A multiplayer memory card matching game built for fun and practice.  
+Tech: HTML, CSS, JavaScript  
+🔗 [GitHub Repo](https://github.com/devruchika-gupta/Cardclick)
 
 ---
 
