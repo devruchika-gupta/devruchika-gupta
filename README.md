@@ -31,13 +31,13 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/ruchika-gupta-web)
 **Portfolio Website**
 My personal portfolio showcasing my projects, skills, education, and contact information.
 Tech: HTML, CSS, JavaScript
-Live Site: https://ruchie-portfolio.netlify.app
+Live Site: ruchie-portfolio.netlify.app
 GitHub Repo: https://github.com/devruchika-gupta/my-portfolio
 
 **Shruva - Food Restaurant Website**
 A responsive frontend website for a food restaurant showcasing menu, ambience, and services.
 Tech: HTML, CSS, JavaScript
-Live Site: https://shruva-restaurant.netlify.app
+Live Site: shruva-restaurant.netlify.app
 GitHub Repo: https://github.com/devruchika-gupta/shruva-restaurant
 
 **Dhara by Rashi - Handmade Candle Website**
