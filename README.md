@@ -49,6 +49,7 @@ GitHub Repo: https://github.com/devruchika-gupta/dhara-by-rashi
 **Memory Card Game (Multiplayer)**
 A multiplayer memory card matching game built for fun and practice.
 Tech: HTML, CSS, JavaScript
+Live site: https://cardclick.netlify.app
 GitHub Repo: https://github.com/devruchika-gupta/Cardclick
 
 ---
